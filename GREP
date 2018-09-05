@@ -1,0 +1,4 @@
+
+// Searchs for Words like this:
+//Word space repeat :
+[\w\s]+:|[\w™\s]+:
